@@ -1,0 +1,42 @@
+#banner {
+  width: 100%;
+}
+.principal {
+  background: #cccccc;
+  padding: 30px;
+}
+.titulo-principal {
+  padding-left: 20px;
+}
+.titulo-centralizado {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+#missao {
+  /*para identificar a tag em especifico*/
+  font-size: 20px;
+}
+em strong {
+  /*para especificar qual strong quero que o css pegue*/
+  color: #ff0000;
+}
+
+.itens {
+  font-style: italic;
+}
+.beneficios {
+  background: #ffffff;
+  padding: 20px;
+}
+
+ul {
+  display: inline-block; /*ocupa só sua largura e deixa mexer nos espaçamentos*/
+  vertical-align: top; /*alinha com o elemento de cima*/
+  width: 20%;
+  margin-right: 15%;
+}
+.imagemBeneficios {
+  width: 50%;
+}
